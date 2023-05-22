@@ -1,0 +1,1 @@
+to open the program just start the "gamble.exe" executable and it should work.
