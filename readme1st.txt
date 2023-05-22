@@ -1,5 +1,5 @@
 # the best hazadard game fr ong
-bruh
+fr bruh
 
 you can run the "uh the gambling" folder and put it on your desktop or idk somnewhere
 then open the folder and run the (gamble.exe) executable.
